@@ -1,0 +1,19 @@
+@charset "UTF-";
+
+body {
+        background-color:rgb(29, 29, 29);
+        color: rgb(94, 91, 91);
+
+        }
+        
+h1 { 
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 2em;
+        text-align: center;
+        }
+
+p {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center
+        
+        }

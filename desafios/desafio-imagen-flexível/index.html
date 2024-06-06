@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Imagem flexível</title>
+    </head>
+
+    <body>
+        <h1>Imagem fléxivel</h1>
+        <p>A imagem abaixo está dentro da tag <strong>picture</strong> juntamente da tag <strong>source:media:type</strong> o que a tonra flexível, ou seja, adaptável a qualquer tamanho de tela </p>
+      <picture>
+        <source media="(max-width: 315px )" srcset="image/foto-eep.png" type="image/png">
+        <source media="(max-width: 515px)" srcset="image/foto-ep.png" type="image/png">
+        <source media="(max-width: 715px)" srcset="image/foto-p.png" type="image/png">
+        <source media="(max-width:1025px )" srcset="image/foto-m.png" type="image/png">
+        <img src="image/foto-g.png" alt="foto 1000px">
+        
+      </picture> 
+
+
+    </body>
+
+</html>
