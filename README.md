@@ -19,10 +19,4 @@
     <a href="https://zaupgn.github.io/html-css/exercicios/ex006">Formatações de textos em HTML5</a>
     <a href="https://zaupgn.github.io/html-css/exercicios/ex007">Formatações de códigos, citações e abreviações</a>
     <a href="https://zaupgn.github.io/html-css/exercicios/ex008">Listas em HTML5</a>
-    <a href="https://zaupgn.github.io/html-css/exercicios/ex009">Links internos, externos e de downloads</a>
-    </body>
-
-
-
-
-</html>
+    <a href="https://zaupgn.github.io/html-css/exercicios/ex009">Links internos, externos e de downloads</a>nbvmngvutyfvujtyghjc  mj ugthjvcuijyhvcfyhujmtgcv 
