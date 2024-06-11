@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posicionamento</title>
+    <style>
+        div#fora {
+            height: 98vh;
+            background-color: purple;
+            position: relative;
+            background-position: cover;
+
+        }
+
+        div#dentro {
+            background-color: yellow;
+            
+            height: 200px;
+            width: 300px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            
+            transform: translate(-50%, -50%);
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div id="fora">
+        <div id="dentro">
+
+        </div>
+    </div>
+    
+</body>
+</html>
