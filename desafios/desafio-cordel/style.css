@@ -64,6 +64,9 @@ section#p02fora {
     background-size: cover;
     margin:0px;
     padding: 1px 0px 1px 0px;
+    box-shadow: inset 1px 1px 2px 1px rgba(0, 0, 0, 0.377);
+    text-shadow: 1px 1px 0px black;
+
 }
 
 section.p02 {
@@ -78,6 +81,7 @@ section#p05fora {
     background-size: cover;
     margin:0px;
     padding: 1px 0px 1px 0px;
+    box-shadow: inset 1px 1px 2px 1px rgba(0, 0, 0, 0.377);
 }
 
 section.p05 {
